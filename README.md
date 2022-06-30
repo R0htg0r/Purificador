@@ -8,7 +8,7 @@ Palavras chaves para finalizar a opção 2: "pronto", "parar", "finalizar", "sto
 Escolha uma palavra e consiguirá concluír a tarefa 2.
 
 # Demonstração
-![alt text](https://cdn.discordapp.com/attachments/873380892448522240/992159369741488319/Screenshot_1.png)
+![alt text](https://cdn.discordapp.com/attachments/785307716767842344/992160352575946782/Screenshot_1.png)
 
 # Contato & Suporte
 <a href="https://discord.gg/CHsnjZB3Ec">Juntar-se ao Discord</p>
